@@ -1,0 +1,9 @@
+main: de.rexlNico.Lobby.Main.Main
+version: 1.0
+name: rexlLobby
+
+commands:
+     build:
+     friend:
+     party:
+     setmody:
